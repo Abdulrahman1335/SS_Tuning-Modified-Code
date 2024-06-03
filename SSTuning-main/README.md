@@ -16,6 +16,6 @@ We did sentiment analysis based classification of finding postive and negatives 
 
 
 ## Quick start for inference
-You can try the Tuning of models with the Colab [Notebook](https://colab.research.google.com/drive/17bqc8cXFF-wDmZ0o8j7sbrQB9Cq7Gowr?usp=sharing).
-You can try the testing models with the Colab [Notebook](https://colab.research.google.com/drive/17bqc8cXFF-wDmZ0o8j7sbrQB9Cq7Gowr?usp=sharing).
+You can try the Tuning of models with the Colab [Notebook](https://colab.research.google.com/drive/1PBT9Ao-mRt2VcPQOjP9UwvziR6oPcMVi?usp=sharing).
+You can try the testing models with the Colab [Notebook](https://colab.research.google.com/drive/1fGu392rQpFfpLL_luEq43TUThYWrpONO?usp=sharing).
 
